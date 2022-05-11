@@ -1,68 +1,44 @@
 {
   "clientes": [
     {
-      "customerName": "Ana Actualizado",
-      "companyName": "Butiko",
-      "email": "anami.vip@gmail.com",
-      "phone": "04121629689",
-      "customerNotes": "Nueva empresa ",
+      "customerName": "Jane Doe",
+      "companyName": "Blindspot",
+      "email": "jane@mail.com",
+      "phone": "098 000 00 00",
+      "customerNotes": "CEO empresa",
       "id": 1
     },
     {
-      "customerName": "Alex Ramirez",
-      "companyName": "D4webs",
-      "email": "alexjhoan.25@gmail.com",
-      "phone": "04120625921",
-      "customerNotes": "Empresa de páginas web",
+      "customerName": "Kurt Weller",
+      "companyName": "Agencia Internacional",
+      "email": "kurt@mail.com",
+      "phone": "098 000 00 00",
+      "customerNotes": "Agentes especializados",
       "id": 2
     },
     {
-      "customerName": "Anais Vivas",
-      "companyName": "El Ovalito",
-      "email": "mirairaanais@gmail.com",
+      "customerName": "Roman",
+      "companyName": "Sandstorm",
+      "email": "roman@mail.com",
       "phone": "0400 000 00 00",
-      "customerNotes": "Cría de puerquitos",
+      "customerNotes": "Carácter fuerte",
       "id": 3
     },
     {
-      "customerName": "Andrea Vivas",
-      "companyName": "Pastelitos",
-      "email": "andrea@mail.com",
-      "phone": "04140000000",
-      "customerNotes": "Pasteles ricos",
+      "customerName": "Tasha Zapata",
+      "companyName": "NAS",
+      "email": "tasha@mail.com",
+      "phone": "098 000 00 00",
+      "customerNotes": "Directora principal",
       "id": 5
     },
     {
-      "customerName": "Adelmo",
-      "companyName": "Mecanica",
-      "email": "adelmo@mail.com",
-      "phone": "04120000000",
-      "customerNotes": "Referenciado",
+      "customerName": "William Patterson",
+      "companyName": "Los 3 ratones",
+      "email": "patterson@mail.com",
+      "phone": "098 000 00 00",
+      "customerNotes": "Hacker",
       "id": 6
-    },
-    {
-      "customerName": "Anais Patiño",
-      "companyName": "Casa Oval",
-      "email": "anais@mami.com",
-      "phone": "0200 000000",
-      "customerNotes": "",
-      "id": 8
-    },
-    {
-      "customerName": "Cliffo",
-      "companyName": "Pasteles el Huevito",
-      "email": "cliffo@mail.com",
-      "phone": "",
-      "customerNotes": "Chispitas de carne",
-      "id": 9
-    },
-    {
-      "customerName": "Antonio",
-      "companyName": "Cobilana",
-      "email": "antonio@mail.com",
-      "phone": "0400 0000000",
-      "customerNotes": "Cobijas parameras",
-      "id": 10
     }
   ]
 }
